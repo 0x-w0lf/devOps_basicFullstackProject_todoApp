@@ -50,4 +50,4 @@ El objetivo de esta aplicación es:
 ```bash
 git clone git@github.com:tu_usuario/devOps_basicFullstackProject_todoApp.git
 cd devOps_basicFullstackProject_todoApp
-
+docker compose up --build
